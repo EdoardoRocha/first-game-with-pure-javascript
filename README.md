@@ -1,4 +1,4 @@
-<h1 align="center"> Discover-the-number </h1>
+<h1 align="center"> game-which-watermelon </h1>
  
  
  
