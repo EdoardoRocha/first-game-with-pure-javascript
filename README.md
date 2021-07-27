@@ -23,7 +23,7 @@
 
 ## What does this algorithm consist of?
 
-This algorithm consists of, as soon as it is loaded, it generates a random number from 1 to 100, so you can bet any number within this limit of 6 chances, if you exceed the algorithm, it ends by releasing the "Play Again" input
+Let's talk a little about this program, basically this program was developed for some javascript exercises but even so it doesn't take away the merit of having been developed with love. The best thing about this game and the simple reason you don't lose bets, what do you mean? , When you add the bets they are saved in your browser so if you reload or something happens that will make the person exit the program it will be saved so the game doesn't end when you restart
 
 ## Technologies used
 
