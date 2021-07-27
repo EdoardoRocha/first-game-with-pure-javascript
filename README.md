@@ -13,10 +13,12 @@
  
  ## How to use this algorithm?
 
-1. First bet a number on the input
-     + Remember that you will only have 6 chances to get it right.
-2. If you exceed the 6 chances limit the game stops and you get an end game message.
-3. Last but not least is the fact that you unlock the "Play Again" input which will restart the game and you can start over
+1. Add players and values in (GM)
+     + Add players and stake amounts for each player and click "Add"
+2. Select watermelon weight
+     + Ask someone who didn't bet to choose the weight of the watermelon to be said the champion
+3. remove game
+     + To restart the game just select "Restart" to restart the game
 
 
 ## What does this algorithm consist of?
